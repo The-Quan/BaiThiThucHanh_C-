@@ -1,0 +1,15 @@
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\bin\Debug\net8.0\BaiThiThucHanh.exe
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\bin\Debug\net8.0\BaiThiThucHanh.deps.json
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\bin\Debug\net8.0\BaiThiThucHanh.runtimeconfig.json
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\bin\Debug\net8.0\BaiThiThucHanh.dll
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\bin\Debug\net8.0\BaiThiThucHanh.pdb
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.AssemblyInfoInputs.cache
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.AssemblyInfo.cs
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.csproj.CoreCompileInputs.cache
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.sourcelink.json
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.dll
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\refint\BaiThiThucHanh.dll
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.pdb
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\BaiThiThucHanh.genruntimeconfig.cache
+D:\FPT_Aptech_Full_Stack\BaiThi\BaiThiThucHanh\BaiThiThucHanh\obj\Debug\net8.0\ref\BaiThiThucHanh.dll
